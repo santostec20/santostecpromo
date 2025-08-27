@@ -1,0 +1,10 @@
+{
+"name": "santostecpromo",
+"version": "1.0.0",
+"private": true,
+"devDependencies": {
+"typescript": "^5.4.0",
+"@types/node": "^20.11.0",
+"@vercel/node": "^3.0.0"
+}
+}
